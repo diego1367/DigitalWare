@@ -1,0 +1,12 @@
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Core\obj\Debug\net5.0\DigitalWare.Core.csproj.AssemblyReference.cache
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Core\obj\Debug\net5.0\DigitalWare.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Core\obj\Debug\net5.0\DigitalWare.Core.AssemblyInfoInputs.cache
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Core\obj\Debug\net5.0\DigitalWare.Core.AssemblyInfo.cs
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Core\obj\Debug\net5.0\DigitalWare.Core.csproj.CoreCompileInputs.cache
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Core\bin\Debug\net5.0\DigitalWare.Core.deps.json
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Core\bin\Debug\net5.0\DigitalWare.Core.dll
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Core\bin\Debug\net5.0\ref\DigitalWare.Core.dll
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Core\bin\Debug\net5.0\DigitalWare.Core.pdb
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Core\obj\Debug\net5.0\DigitalWare.Core.dll
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Core\obj\Debug\net5.0\ref\DigitalWare.Core.dll
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Core\obj\Debug\net5.0\DigitalWare.Core.pdb

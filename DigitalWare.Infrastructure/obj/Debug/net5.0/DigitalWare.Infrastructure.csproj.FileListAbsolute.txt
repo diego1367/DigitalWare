@@ -1,0 +1,15 @@
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Infrastructure\bin\Debug\net5.0\DigitalWare.Infrastructure.deps.json
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Infrastructure\bin\Debug\net5.0\DigitalWare.Infrastructure.dll
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Infrastructure\bin\Debug\net5.0\ref\DigitalWare.Infrastructure.dll
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Infrastructure\bin\Debug\net5.0\DigitalWare.Infrastructure.pdb
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Infrastructure\bin\Debug\net5.0\DigitalWare.Core.dll
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Infrastructure\bin\Debug\net5.0\DigitalWare.Core.pdb
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Infrastructure\obj\Debug\net5.0\DigitalWare.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Infrastructure\obj\Debug\net5.0\DigitalWare.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Infrastructure\obj\Debug\net5.0\DigitalWare.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Infrastructure\obj\Debug\net5.0\DigitalWare.Infrastructure.AssemblyInfo.cs
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Infrastructure\obj\Debug\net5.0\DigitalWare.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Infrastructure\obj\Debug\net5.0\DigitalWare.Infrastructure.csproj.CopyComplete
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Infrastructure\obj\Debug\net5.0\DigitalWare.Infrastructure.dll
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Infrastructure\obj\Debug\net5.0\ref\DigitalWare.Infrastructure.dll
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Infrastructure\obj\Debug\net5.0\DigitalWare.Infrastructure.pdb

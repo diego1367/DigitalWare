@@ -1,0 +1,17 @@
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Application\bin\Debug\net5.0\DigitalWare.Application.deps.json
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Application\bin\Debug\net5.0\DigitalWare.Application.dll
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Application\bin\Debug\net5.0\ref\DigitalWare.Application.dll
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Application\bin\Debug\net5.0\DigitalWare.Application.pdb
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Application\bin\Debug\net5.0\DigitalWare.Core.dll
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Application\bin\Debug\net5.0\DigitalWare.Infrastructure.dll
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Application\bin\Debug\net5.0\DigitalWare.Core.pdb
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Application\bin\Debug\net5.0\DigitalWare.Infrastructure.pdb
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Application\obj\Debug\net5.0\DigitalWare.Application.csproj.AssemblyReference.cache
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Application\obj\Debug\net5.0\DigitalWare.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Application\obj\Debug\net5.0\DigitalWare.Application.AssemblyInfoInputs.cache
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Application\obj\Debug\net5.0\DigitalWare.Application.AssemblyInfo.cs
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Application\obj\Debug\net5.0\DigitalWare.Application.csproj.CoreCompileInputs.cache
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Application\obj\Debug\net5.0\DigitalWare.Application.csproj.CopyComplete
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Application\obj\Debug\net5.0\DigitalWare.Application.dll
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Application\obj\Debug\net5.0\ref\DigitalWare.Application.dll
+C:\Users\diegoguzman\Desktop\DigitalWare\DigitalWare.Application\obj\Debug\net5.0\DigitalWare.Application.pdb
